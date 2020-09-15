@@ -1,4 +1,5 @@
 # prom_query_stress_testing
+prometheus 压力测试工具
 
 ```
 查询语句要包含{},实例如下：
